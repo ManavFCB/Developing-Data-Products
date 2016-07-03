@@ -1,8 +1,0 @@
-#About the project
-
-This project makes use of the ToothGrowth dataset from the datasets package.
-
-The regression is created by using the "len" variable as the response and either
-of "supp" or "dose" as predictor.
-
-The user can choose the predictor on the side panel.
